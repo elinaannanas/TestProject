@@ -48,12 +48,14 @@
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\12- NoClip state\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Core\ICharacterController.cs" />
     <Compile Include="Assets\Ink\Demos\Basic Demo\Scripts\BasicInkExample.cs" />
+    <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\Objects\Colectetabellitem.cs" />
     <Compile Include="Assets\KinematicCharacterController\Core\PhysicsMover.cs" />
     <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\FrameratePanel.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\10- Multiple movement states setup\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\3- Jumping\Scripts\b- Double Jumping\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\12- NoClip state\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\StressTestManager.cs" />
+    <Compile Include="Assets\calculate.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\6- Crouching\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\14- Climbing Ladders\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\6- Crouching\Scripts\MyCharacterController.cs" />
@@ -72,7 +74,9 @@
     <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\PrefabLauncher.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\13- Swimming state\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\4- Landing and leaving ground\Scripts\MyCharacterController.cs" />
+    <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\ItemSystem\ItemMangerer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\3- Jumping\Scripts\a- Simple Jumping\MyCharacterController.cs" />
+    <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\PorgrammingTasks.cs" />
     <Compile Include="Assets\DoubleL\Demo\DemoCameraController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\2- Basic Movement and Gravity\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Core\ReadOnlyAttribute.cs" />
