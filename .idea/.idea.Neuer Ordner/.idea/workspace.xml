@@ -7,30 +7,42 @@
     <list default="true" id="a2b6426e-6696-441f-9d22-3b81097f809a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Neuer Ordner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Neuer Ordner/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Image/Collectabies.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/ItemSystem/ItemMangerer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/ItemSystem/ItemMangerer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Flower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Flower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Gras.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Gras.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Stone.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabeleitem_Stone.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabellitem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabellitem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Collectabelitem_Wood.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Collectabelitem_Wood.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Cactus_08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Cactus_08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Grass_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Grass_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Rocks_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Rocks_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Prop_Bone_Cracked_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Prop_Bone_Cracked_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ÜB.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ÜB.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker10-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker11-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker12-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker13-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker14-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker15-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker16-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker17-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker18-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker19-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker20-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker5-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker6-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker7-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker8-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker9-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Timeline.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Timeline.Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +53,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Collectabies/Objects/Collectabletoitem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/ItemSystem/ItemMangerer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/Objects/Colectetabellitem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/KinematicCharacterController/Examples/Scripts/PorgrammingTasks.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -121,7 +133,10 @@
       <updated>1726573997736</updated>
       <workItem from="1726574001927" duration="11000" />
       <workItem from="1726574034131" duration="5429000" />
-      <workItem from="1727090524280" duration="9293000" />
+      <workItem from="1727090524280" duration="9310000" />
+      <workItem from="1727176520634" duration="4234000" />
+      <workItem from="1727182409550" duration="41000" />
+      <workItem from="1727182860896" duration="3448000" />
     </task>
     <servers />
   </component>

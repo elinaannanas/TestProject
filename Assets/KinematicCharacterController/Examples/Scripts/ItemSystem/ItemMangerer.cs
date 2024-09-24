@@ -5,6 +5,13 @@ using UnityEngine;
 
 public class ItemMangerer : MonoBehaviour
 {
+    
+        
+    public static ItemMangerer Instance {get; private set; }
+   
+        
+        
+   
     [SerializeField] private Colectetabeleitem[] items;
 
     private void Start()
@@ -30,4 +37,18 @@ public class ItemMangerer : MonoBehaviour
            Debug.Log(item.nameItem + "kostet" + item.valueGold + "Gold"); 
         }
     }
+
+    private void Awake()
+    {
+        if (Instance != null)
+        {
+           
+        }
+        
+    }
+    public void AddItemCollecta
+    
+    
+    
+    
 }
