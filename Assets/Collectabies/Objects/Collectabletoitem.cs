@@ -6,32 +6,39 @@ using UnityEngine;
 public class Collectabletoitem : MonoBehaviour
 {
     [SerializeField] private GameObject toolTip;
-    private Transform tranformCamera;
-    
-    private bool isInInter
+    [SerializeField] private Colectetabeleitem itemData;
+    private Transform transformCamera;
 
-    [SerializeField] private SO_Collectableitem itemData;
+    private bool isInInteractionRange = false;
+
+    
     // Start is called before the first frame update
     void Start()
     {
         toolTip.SetActive((false));
+        if (Camera.main != null) transformCamera = Camera.main.transform;
     }
 
 
     private void Update()
     {
-        if (isInteractionRange)
+        if (isInInteractionRange)
         {
-            
+            toolTip.transform.LookAt(transformCamera);
         }
     }
-
-    // Update is called once per frame
+    
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
             Debug.Log("PlayerEntered");
+            toolTip.SetActive(true);
+            isInInteractionRange = true;
+            
+            //Add Item to the List for items that can be collected
+            ItemMangerer.Instance.AddItemCollectable(this);
+
         }
     }
     
@@ -40,6 +47,11 @@ public class Collectabletoitem : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("PlayerLeft");
+            toolTip.SetActive(false);
+            isInInteractionRange = false;
+            
+            ItemMangerer.Instance.RemoveItemCollectable(this);
+
         }
     }
 }

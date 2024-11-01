@@ -13,6 +13,10 @@ public class ItemMangerer : MonoBehaviour
         
    
     [SerializeField] private Colectetabeleitem[] items;
+    
+    private List<Colectetabeleitem> collectedItems = new List<Colectetabeleitem>();
+    private List<Collectabletoitem> itemsInRange = new List<Collectabletoitem>();
+
 
     private void Start()
     {
@@ -42,11 +46,27 @@ public class ItemMangerer : MonoBehaviour
     {
         if (Instance != null)
         {
-           
+           Destroy(this);
+        }
+        else
+        {
+            Instance=this;
         }
         
     }
-    public void AddItemCollecta
+  
+    
+    
+    public void AddItemCollectable(Collectabletoitem collectableItem)
+    {
+        itemsInRange.Add(collectableItem);
+    }
+    
+    public void RemoveItemCollectable(Collectabletoitem collectableItem)
+    {
+        itemsInRange.Remove(collectableItem);
+    }
+
     
     
     
